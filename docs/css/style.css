@@ -1,5 +1,11 @@
 body {
     color: rgb(229, 215, 215);
-    background-color: #362d2d;
+    background-color: #292424;
     font-family: 'Mountains of Christmas', cursive;
+    max-width: 65ch;
+    margin: auto;
+}
+
+header {
+    text-align: center;
 }
